@@ -1,0 +1,6 @@
+C:\Users\currito la lavadora\Desktop\CodeExercise-master\FSLCodeExercise.Start\bin\Debug\FSLCodeExercise.Start.exe.config
+C:\Users\currito la lavadora\Desktop\CodeExercise-master\FSLCodeExercise.Start\bin\Debug\FSLCodeExercise.Start.exe
+C:\Users\currito la lavadora\Desktop\CodeExercise-master\FSLCodeExercise.Start\bin\Debug\FSLCodeExercise.Start.pdb
+C:\Users\currito la lavadora\Desktop\CodeExercise-master\FSLCodeExercise.Start\obj\Debug\FSLCodeExercise.Start.exe
+C:\Users\currito la lavadora\Desktop\CodeExercise-master\FSLCodeExercise.Start\obj\Debug\FSLCodeExercise.Start.pdb
+C:\Users\currito la lavadora\Desktop\CodeExercise-master\FSLCodeExercise.Start\obj\Debug\FSLCodeExercise.Start.csprojResolveAssemblyReference.cache

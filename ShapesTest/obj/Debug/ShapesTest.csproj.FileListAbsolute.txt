@@ -1,0 +1,7 @@
+C:\Users\currito la lavadora\Desktop\CodeExercise-master\ShapesTest\obj\Debug\ShapesTest.csprojResolveAssemblyReference.cache
+C:\Users\currito la lavadora\Desktop\CodeExercise-master\ShapesTest\bin\Debug\ShapesTest.dll
+C:\Users\currito la lavadora\Desktop\CodeExercise-master\ShapesTest\bin\Debug\ShapesTest.pdb
+C:\Users\currito la lavadora\Desktop\CodeExercise-master\ShapesTest\bin\Debug\FSLCodeExercise.Start.exe
+C:\Users\currito la lavadora\Desktop\CodeExercise-master\ShapesTest\bin\Debug\FSLCodeExercise.Start.pdb
+C:\Users\currito la lavadora\Desktop\CodeExercise-master\ShapesTest\obj\Debug\ShapesTest.dll
+C:\Users\currito la lavadora\Desktop\CodeExercise-master\ShapesTest\obj\Debug\ShapesTest.pdb
